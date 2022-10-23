@@ -183,13 +183,4 @@ window.onload=function()
 		$("#nav05").animate({"left":"0%"},800);
 	})
 	
-	//展示按钮,如果宽度大于30就执行收回，小于就执行释放 --- 缺陷占不使用
-	// $(".cleft_bottom").click(function(){
-	// 	var cleft_width = $("#cleft").width();
-	// 	if(cleft_width > 30){
-	// 		cleft_widx();
-	// 	}else{
-	// 		cleft_wid();
-	// 	}
-	// })
 }
